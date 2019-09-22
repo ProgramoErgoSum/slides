@@ -1,0 +1,16 @@
+# The MIT License (MIT)
+# Maintaned Asociación Programo Ergo Sum
+# - [@migueabellan](https://github.com/migueabellan)
+
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+
+exclude:
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
