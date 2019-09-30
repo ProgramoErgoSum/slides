@@ -3,7 +3,7 @@
   
   <br />
 
-  Generador web de diapositivas programado en Ruby con **Jekyll** sobre GitHub Pages utilizando el framework **Reveal.js** para utilizar en presentaciones.
+  ### Generador web de diapositivas programado en Ruby con **Jekyll** sobre GitHub Pages utilizando el framework **Reveal.js** para utilizar en presentaciones.
   
   <a target="_blank" href="https://www.programoergosum.es/colabora">
     <img src="https://badgen.net/badge/collaborators/♥/orange">
