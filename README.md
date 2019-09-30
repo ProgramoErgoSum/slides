@@ -7,12 +7,6 @@
 
   ### Generador web de diapositivas programado en Ruby con **Jekyll** sobre GitHub Pages utilizando el framework **Reveal.js** para utilizar en presentaciones.
   
-  <a target="_blank" href="https://www.programoergosum.es/colabora">
-    <img src="https://badgen.net/badge/collaborators/♥/orange">
-  </a>
-  <a target="_blank" href="https://www.paypal.me/programoergosum">
-    <img src="https://badgen.net/badge/donations/paypal%20me/orange">
-  </a>
   <a target="_blank" href="https://github.com/wikitic/slides/blob/master/LICENSE">
     <img src="https://badgen.net/badge/license/MIT/orange">
   </a>
