@@ -1,7 +1,7 @@
 <div align="center">
   <img align="center" src="logo-programo-ergo-sum.png"/>
   
-  <br /><br />
+  <br />
 
   Generador web de diapositivas programado en Ruby con **Jekyll** sobre GitHub Pages utilizando el framework **Reveal.js** para utilizar en presentaciones.
   
