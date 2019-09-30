@@ -18,6 +18,14 @@
   </a>
 </div>
 
+### Jekyll.rb
+
+[Jekyll.rb](https://jekyllrb.com/) es un generador de páginas estáticas para la construcción de webs, principalmente utilizado como el motor de creación de todas las páginas que se sirven en [GitHub Pages](https://pages.github.com/).
+
+### Reveal.js
+
+[Reveal.JS](https://revealjs.com/#/) es un framework que permite crear presentaciones interactivas utilizando estándares Web y se puede utilizar libremente código HTML, CSS y JavaScript. Las presentaciones se adaptan al dispositivo en el que se visualicen.
+
 <br /><hr /><br />
 
 ## Instalación sobre GitHub Pages
@@ -30,7 +38,7 @@
 3. Habilita GH-Pages sobre el repositorio de GitHub
 4. Accede a la url https://[username].github.io/slides
 
-## Instalación sobre local
+## Instalación sobre local (avanzado)
 
 1. Clona este repositiorio
 
@@ -55,13 +63,6 @@ $ docker-compose up
 
 MIT License (MIT)
 
-Maintaned Asociación Programo Ergo Sum
+Maintaned Programo Ergo Sum
 - [@migueabellan](https://github.com/migueabellan)
 
-### Jekyll.rb
-
-[Jekyll.rb](https://jekyllrb.com/) es un generador de páginas estáticas para la construcción de webs, principalmente utilizado como el motor de creación de todas las páginas que se sirven en [GitHub Pages](https://pages.github.com/).
-
-### Reveal.js
-
-[Reveal.JS](https://revealjs.com/#/) es un framework que permite crear presentaciones interactivas utilizando estándares Web y se puede utilizar libremente código HTML, CSS y JavaScript. Las presentaciones se adaptan al dispositivo en el que se visualicen.
