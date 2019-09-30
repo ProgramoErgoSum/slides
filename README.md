@@ -1,7 +1,7 @@
 <div align="center">
   <img align="center" src="images/logo-wikitic.png"/>
 
-  by @ProgramoErgoSum
+  by [Programo Ergo Sum](https://github.com/ProgramoErgoSum)
   
   <br />
 
