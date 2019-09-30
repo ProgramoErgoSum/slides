@@ -1,5 +1,7 @@
 <div align="center">
-  <img align="center" src="logo-programo-ergo-sum.png"/>
+  <img align="center" src="images/logo-wikitic.png"/>
+
+  by @ProgramoErgoSum
   
   <br />
 
