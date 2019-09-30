@@ -32,6 +32,12 @@
 3. Habilita GH-Pages sobre el repositorio de GitHub
 4. Accede a la url https://[username].github.io/slides
 
+
+
+<br />
+
+
+
 ## Instalación sobre local (avanzado)
 
 1. Clona este repositiorio
