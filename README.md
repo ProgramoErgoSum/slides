@@ -3,7 +3,9 @@
 
   by [Programo Ergo Sum](https://github.com/ProgramoErgoSum)
   
+  
   <br />
+  
 
   ### Generador web de diapositivas programado en Ruby con **Jekyll** sobre GitHub Pages utilizando el framework **Reveal.js** para utilizar en presentaciones.
   
