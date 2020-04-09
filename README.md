@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="images/logo-wikitic.png"/>
+  <img align="center" src="images/logo-programoergosum.png"/>
 
   by [Programo Ergo Sum](https://github.com/ProgramoErgoSum)
   
@@ -9,7 +9,7 @@
 
   ### Generador web de diapositivas programado en Ruby con **Jekyll** sobre GitHub Pages utilizando el framework **Reveal.js** para utilizar en presentaciones.
   
-  <a target="_blank" href="https://github.com/wikitic/slides/blob/master/LICENSE">
+  <a target="_blank" href="https://github.com/programoergosum/slides/blob/master/LICENSE">
     <img src="https://badgen.net/badge/license/MIT/orange">
   </a>
 </div>
@@ -26,7 +26,7 @@
 
 ## Instalación sobre GitHub Pages
 
-1. Haz un fork de este [repositorio](https://github.com/wikitic/slides).
+1. Haz un fork de este [repositorio](https://github.com/programoergosum/slides).
 2. Modifica los contenidos según tus necesidades.
    - `_layouts/default.html` aparece los enlaces de portada y diapositivas.
    - `_includes/cover.html` portada en html.
@@ -45,7 +45,7 @@
 1. Clona este repositiorio
 
 ```sh
-$ git clone git@github.com:wikitic/slides.git
+$ git clone git@github.com:programoergosum/slides.git
 ```
 
 2. Instala docker y docker-compose en tu máquina y lanza el siguiente docker-compose
